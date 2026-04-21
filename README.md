@@ -1,4 +1,4 @@
-JS > Deobfuscating, Decompile
+deobf kral
 
 genç stealercilere yonelik faaliyet
 
