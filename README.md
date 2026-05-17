@@ -13,3 +13,5 @@ repolarımda kullanılan projeler eğitim ve güvenlik araştırması amaçlıd�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" />
+
+![](https://komarev.com/ghpvc/?username=l77k)
